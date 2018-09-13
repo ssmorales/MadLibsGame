@@ -1,4 +1,4 @@
-//Authors: 
+//Authors:Samual Morales 
 #include <iostream>
 #include <string>
 using namespace std;
